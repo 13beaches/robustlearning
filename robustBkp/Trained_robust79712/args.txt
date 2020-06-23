@@ -1,0 +1,8 @@
+b : 128
+epoch : 500
+exp : 
+gpu : [2]
+lr : 0.1
+optim : robust
+seed : 79712
+warm : 1

@@ -1,0 +1,8 @@
+b : 128
+epoch : 200
+exp : 
+gpu : [2]
+lr : 0.1
+optim : radam
+seed : 79712
+warm : 1

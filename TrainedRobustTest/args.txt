@@ -1,0 +1,8 @@
+b : 128
+epoch : 200
+exp : RobustTest
+gpu : [3]
+lr : 0.1
+optim : robust
+seed : None
+warm : 1

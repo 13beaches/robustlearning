@@ -1,0 +1,9 @@
+b : 128
+cuda : -1
+epoch : 200
+exp : 
+gpu : [0]
+lr : 0.1
+optim : robust
+seed : None
+warm : 1

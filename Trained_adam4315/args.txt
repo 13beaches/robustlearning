@@ -1,0 +1,8 @@
+b : 128
+epoch : 200
+exp : 
+gpu : [2]
+lr : 0.001
+optim : adam
+seed : 4315
+warm : 1
